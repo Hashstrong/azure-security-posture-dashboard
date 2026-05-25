@@ -1,0 +1,13 @@
+Windows VM
+↓
+Azure Monitor Agent (AMA)
+↓
+Data Collection Rule (DCR)
+↓
+Log Analytics Workspace
+↓
+Microsoft Sentinel
+↓
+Azure Monitor Workbook
+↓
+Security Dashboard

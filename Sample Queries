@@ -1,0 +1,13 @@
+Heart beat monitoring
+Heartbeat
+| summarize count() by Computer
+
+
+Failed Login Detection
+SecurityEvent
+| where EventID == 4625
+| summarize FailedAttempts=count() by Account
+
+Azure activity monitoring 
+AzureActivity
+| summarize Count=count() by OperationNameValue

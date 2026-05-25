@@ -1,0 +1,10 @@
+Configured Microsoft Sentinel SIEM
+Deployed Azure Monitor Agent (AMA)
+Built Data Collection Rules (DCR)
+Configured NSG diagnostic logging
+Integrated Microsoft Defender for Cloud
+Created KQL detections and monitoring queries
+Built Azure Monitor Workbook dashboards
+Implemented Azure Policy governance controls
+Collected Windows Security Event logs
+Monitored VM heartbeat telemetry
